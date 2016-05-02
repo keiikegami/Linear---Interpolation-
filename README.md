@@ -1,2 +1,2 @@
-# Linear---Interpolation-
+# Linear Interpolation
 Linear Interpolation Julia Code 
